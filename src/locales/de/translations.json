@@ -44,7 +44,7 @@
     "bpn": "Business Partner Number",
     "bpnTooltip": "Zeigt die BPN an und kann nicht bearbeitet werden.",
     "legalEntity": "Rechtsträger",
-    "legalEntityTooltip": "legaler Firmenname",
+    "legalEntityTooltip": "Legaler Firmenname",
     "helperText": "In case you enter your data manually, this field fill be locked.",
     "registeredName": "Eingetragener Unternehmensname",
     "organizationAdd": "Organisationsadresse",
